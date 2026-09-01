@@ -59,4 +59,4 @@ Built with **RBI Master Circular 2025–26** guidelines in mind:
 
 ---
 
-*Developed by Aman Saraswat*
+*Developed by Manjit Kumar*
