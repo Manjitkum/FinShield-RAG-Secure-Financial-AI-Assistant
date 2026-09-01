@@ -1,0 +1,20 @@
+RBI MASTER CIRCULAR - 2025-2026
+SUBJECT: PRUDENTIAL NORMS FOR FINTECH LENDING
+
+1. INTRODUCTION
+This circular sets out the framework for digital lending platforms operating in India. All Regulated Entities (REs) must adhere to these norms to ensure transparency and customer protection.
+
+2. KEY PROVISIONS
+2.1. Loan Disbursal: All loan disbursals and repayments must be executed only between the bank accounts of the borrower and the Regulated Entity. No pass-through accounts or pool accounts of third-party lending service providers (LSPs) are permitted.
+2.2. Cooling-off Period: A cooling-off/look-up period of at least 3 days must be provided for loans having a tenor of 7 days or more, during which the borrower can exit the loan by paying the principal and the proportionate APR without any penalty.
+2.3. Data Privacy: REs shall ensure that any collection of data by their DLAs (Digital Lending Apps) is need-based and with the clear audit trails. Access to mobile phone resources like file and media, contact list, call logs, telephony functions, etc., is prohibited.
+
+3. GRIEVANCE REDRESSAL
+3.1. Nodal Officer: Every RE must appoint a Nodal Grievance Redressal Officer to deal with FinTech/digital lending related complaints.
+3.2. Resolution Time: Complaints must be resolved within 30 days. If not, the borrower can complain to the Integrated Ombudsman Scheme of the RBI.
+
+4. REPORTING TO CICs
+All lending done through digital lending apps must be reported to Credit Information Companies (CICs) irrespective of the nature/tenor of the loan.
+
+5. PENALTIES
+Non-compliance with these directions will invite penal action under the Banking Regulation Act, 1949.

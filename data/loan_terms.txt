@@ -1,0 +1,26 @@
+NEXUS FINTECH - PERSONAL LOAN TERMS & CONDITIONS (2026)
+
+1. ELIGIBILITY
+- Minimum Age: 21 years
+- Maximum Age: 60 years at loan maturity
+- Minimum Income: INR 25,000 per month
+- Credit Score: 700+ (CIBIL)
+
+2. INTEREST RATES & CHARGES
+- Annual Percentage Rate (APR): 10.5% to 24% per annum, based on credit profile.
+- Processing Fee: Up to 2% of the loan amount + GST.
+- Pre-payment Penalty: 
+  - Nil if paid after 12 EMIs.
+  - 4% of principal outstanding if paid before 12 EMIs.
+- Late Payment Charges: 2% per month on the overdue EMI amount.
+
+3. REPAYMENT
+- Repayment Mode: NACH/e-Mandate only.
+- Tenure: 12 to 60 months.
+
+4. DOCUMENTATION
+- KYC: Aadhaar (masked), PAN Card.
+- Income Proof: Last 3 months bank statement.
+
+5. DEFAULT
+In case of default for more than 90 days, the loan account will be classified as NPA (Non-Performing Asset) and reported to all Credit Information Companies.
